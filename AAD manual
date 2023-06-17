@@ -31,6 +31,9 @@ public class MainActivity extends AppCompatActivity {
  setContentView(R.layout.activity_main);
  }
 }
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EXPERIMENT 3 (Display Name)
 activity_main.xml
 <?xml version="1.0" encoding="utf-8"?>
@@ -111,6 +114,9 @@ public class MainActivity extends AppCompatActivity {
  });
  }
 }
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EXPERIMENT 4
 User name and password showing screen
 activity_main.xml
@@ -380,6 +386,8 @@ Toast.LENGTH_LONG).show();
  }
 }
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EXPERIMENT 5
 Pass value from one activity to another activity
 activity_main.xml
@@ -547,6 +555,8 @@ public class SecondActivity extends Activity
  }
 }
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EXPERIMENT 6
 Send sms using intent
 activity_main.xml
@@ -593,6 +603,9 @@ public class MainActivity extends AppCompatActivity {
  });
  }
 }
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EXPERIMENT 7
  Application using Fragments
 activity_main.xml
@@ -785,6 +798,7 @@ Toast.LENGTH_LONG).show();
  }
 }
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EXPERIMENT 8
  Application using Radio Buttons
 activity_main.xml
@@ -854,6 +868,8 @@ public class MainActivity extends AppCompatActivity {
  });
  }
 }
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EXPERIMENT 9
  Application for Menu
 activity_main.xml
@@ -948,6 +964,8 @@ e9_menu.xml
  </menu>
  </item>
 </menu>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EXPERIMENT 10
 Application that stores user details in the data base table
 activity_main.xml
@@ -1113,6 +1131,10 @@ cursor.getString(cursor.getColumnIndex(COLUMN_EMAIL));
  return stringBuilder.toString();
  }
 }
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 EXPERIMENT NO.1
 INSTALLING AND RUNNING APPLICATIONS ON ANDROID STUDIO
 Step 1 - System Requirements
